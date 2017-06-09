@@ -19,6 +19,7 @@ RESTful services for searching Apache Lucene indexes.
 
 ## Using Services
 The services may be accessed via HTTP requests. They return data in JSON format.
+Sample nodejs application for twitter dataset is available [here](https://github.com/amagge/twitter-lucene).
 
 ### Lucene query for Index records
 * Type: GET
